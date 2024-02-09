@@ -3,7 +3,10 @@
 ###### The Hotel Management System is a comprehensive software solution designed to streamline and automate various operations within a hotel establishment. It encompasses a wide range of functionalities to efficiently manage day-to-day tasks, enhance guest experience, optimize resource utilization, and improve overall operational efficiency. The system integrates multiple modules to handle different aspects of hotel operations, including room management, guest management, staff management, reservation management, billing, inventory management, and more.
 
 ### Entity Relationship Diagram of Hotel management system
-![Image Description]("C:\Users\pradi\OneDrive\Desktop\ERD hotel management system.pdf")
+![image](https://github.com/Tanish007/Hotel-Management-System/assets/25193512/ecf9fa6f-7708-4d1e-bc71-a3ed52d13902)
+
+
+
 ### Project Structure
 ##### Scripts folder contains -
 ###### 1.1 HotelManagement(DDL) - Script to create database and tables for the associated entities
